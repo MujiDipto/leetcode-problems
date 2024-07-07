@@ -27,7 +27,7 @@ public class Solution {
             }
         }
         
-        throw new IllegalArgumentException("Retard");
+        throw new IllegalArgumentException("Rt");
     }
 
     public static void main(String[] args) {
